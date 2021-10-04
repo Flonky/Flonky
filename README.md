@@ -16,7 +16,7 @@
 
 - I’m currently learning Python & CSS 
 
-- You can find my website at [flky.dev](https://flky.dev)
+- You can find my website at [flky.dev](https://s.flky.dev/)
 
 <h2> Skills </h2>
 <a href= https://github.com/Flonky?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
