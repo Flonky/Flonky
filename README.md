@@ -1,10 +1,10 @@
-<h1> Hello! </h1>
+<h1> Hoi :3 </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Flonky.Flonky)
 
 </p>
-<div size='20px'> Hi! My name is Flonky. Thank You for taking the time to view my GitHub Profile
+<div size='20px'> Hi! My name is Flonky but i usually go by flky. Thank You for taking the time to view my GitHub Profile^^
 </div>
 
 <h2> About Me </h2>
