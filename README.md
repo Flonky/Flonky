@@ -1,7 +1,8 @@
-<h1> Hoi :3 </h1>
 <p align='center'>
+<h1> Hoi :3 </h1>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Flonky.Flonky)
+[![Discord Presence](https://lanyard.cnrad.dev/api/355330245433360384?bg=161b22&borderRadius=8px)](https://discord.com/users/355330245433360384)
+
 
 </p>
 <div size='20px'> Hi! My name is Flonky but i usually go by flky. Thank You for taking the time to view my GitHub Profile^^
@@ -23,6 +24,7 @@
 
 
 <h2> My GitHub Stats </h2>
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=Flonky.Flonky)
 
 ![Metrics](https://metrics.lecoq.io/Flonky?template=classic&isocalendar=1&gists=1&repositories=1&languages=1&achievements=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&repositories.featured=Heroic-Games-Launcher%2FHeroicGamesLauncher&config.timezone=UTC)
 
